@@ -11,9 +11,3 @@ dependencies = [
     "ipykernel>=7.4.0",
 ]
 
-[project.scripts]
-python-ai = "python_ai:main"
-
-[build-system]
-requires = ["uv_build>=0.13.1,<0.14.0"]
-build-backend = "uv_build"
