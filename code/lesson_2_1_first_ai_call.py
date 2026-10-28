@@ -37,11 +37,3 @@ print("=" * 40)
 print(f"Total Tokens Used: {total_tokens}")
 print(f"Time Taken: {elapsed_time:.1f} seconds")
 print("=" * 40)
-
-
-
-
-
-
-
-
